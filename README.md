@@ -7,7 +7,7 @@ CUSTOMER SEGMENTATION ANALYSIS
 
 ### DOMAIN
 RETAIL
-### PROBLEM STATEMENT
+### OBJECTIVE
  Suppose the managerial team of an online retail shop approaches you, a data scientist, with the dataset wanting to know whether customers will make their next purchase 90 days from the day they made their last purchase. Your answer to their inquiry will help them identify which customers their marketing team need to have a focus on with regard to the next promotional offers they will be rolling out.build a machine learning model that predicts whether an online customer of a retail shop will make their next purchase 90 days from the day they made their last purchase.
 ### DATA DESCRIPTION
     INVOICE
@@ -26,7 +26,7 @@ RETAIL
 
     COUNTRY 
 
-### PRO OBJECTIVE
+### PROJECT WORKFLOW
 DATA WRANGLING
 
 DATA CLEANING
@@ -70,6 +70,9 @@ LUNG CANCER DETECTION
 ### DOMAIN
 HEALTH CARE
 
+### PROJECT OBECTIVE
+We intend to develop a comprehensive predictive model for lung cancer risk assesment using a dataset enriched with a wide array of patient attributes,including gender,age,smoking history,and a spectrum of health-related indicators.
+
 ### DATA DESCRIPTION
 GENDER: The individual's gender, whether male or female (M/F)
 
@@ -102,7 +105,7 @@ SWALLOWING DIFFICULTY: Difficulty in swallowing (Yes=2/No=1)
 CHEST PAIN: Presence of chest pain (Yes=2/No=1)
 
 LUNG_CANCER: Has Lung Cancer or not (YES/NO)
-### PROJECT OBJECTIVE
+### PROJECT WORKFLOW
 
 DATA WRANGLING
 
